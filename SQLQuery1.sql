@@ -115,4 +115,5 @@ begin
  select * from j
 
  update j set B=0 where A=2
+ ---- hands-on2 changes2
 
