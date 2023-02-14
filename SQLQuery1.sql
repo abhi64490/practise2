@@ -116,4 +116,4 @@ begin
 
  update j set B=0 where A=2
 
- ---change done by gourav
+ ---change done by gourav totla
