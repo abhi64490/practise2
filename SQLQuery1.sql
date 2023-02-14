@@ -116,4 +116,5 @@ begin
 
  update j set B=0 where A=2
  ---- hands-on2 changes2
+ ---- hands-on3 changes3
 
